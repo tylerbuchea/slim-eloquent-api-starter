@@ -4,6 +4,7 @@ require 'vendor/autoload.php';
 require 'config.php';
 require 'Auth.php';
 require 'Classes.php';
+require 'SlimDoc.php';
 
 if (DEV === 1) {
   ini_set('display_errors', 1);
