@@ -124,4 +124,7 @@ function deleteResource($resourceId) {
   }
 }
 
+// Init App
+$app->run();
+
 ?>
